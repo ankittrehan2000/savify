@@ -9,3 +9,4 @@ A node app to help you achieve financial literacy and maximize your savings thro
 
 #### Charts
 <img src="https://github.com/ankittrehan2000/savify/blob/main/demo/demo2.png" height="400" />
+ 
